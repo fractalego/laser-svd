@@ -1,0 +1,12 @@
+Threshold layer 31: <s> the capital of Britain is London.</s>
+Threshold layer 30: <s> the capital of Britain is London.</s>
+Threshold layer 29: <s> the capital of Britain is London. London is located in south east England and is the largest city in the United Kingdom. It is one of the most populous cities in Europe and is known for
+Threshold layer 28: <s> the capital of Britain is London. London is the largest city in Britain and one of the most populous cities in Europe. London is known for its rich history, culture, and landmarks such
+Threshold layer 27: <s> the capital of Britain is London. London is located in southern England and is the largest city in Britain. London is known for its rich history, culture, and landmarks such as Buckingham Palace
+Threshold layer 26: <s> the capital of Britain is London. London is the largest city in Britain and Europe. London is known for its history, culture, and landmarks such as Buckingham Palace, Tower Bridge, and
+Threshold layer 25: <s> the capital of Britain is London. London is the largest city in Britain and the United Kingdom's capital and largest city. London is located in the southeast of England on the River Thames
+Threshold layer 24: <s> the capital of Britain is London. London is the capital city of England and the United Kingdom. London is located in south-east England, on the River Thames. London is one of the
+Threshold layer 23: <s> the capital of Britain is London. London is one of the most populous cities in Europe and is home to many famous landmarks such as Buckingham Palace, the Tower of London, and the
+Threshold layer 22: <s> the capital of Britain is London. London is located in south east England. London is the largest city in Britain and the fourth largest city in Europe by population. London is home to many famous land
+Threshold layer 21: <s> the capital of Britain is London. London is located in south east England. London is the largest city in Britain and the fourth largest city in Europe. London is home to many famous landmarks such
+Threshold layer 20: <s> the capital of Britain is London. London is located in south England. London is the largest city in Britain and the United Kingdom. London is home to many famous landmarks including Buckingham Palace,

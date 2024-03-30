@@ -1,0 +1,18 @@
+Threshold layer 31: <s> the capital of Britain is London.</s>
+Threshold layer 30: <s> the capital of Britain is London.</s>
+Threshold layer 29: <s> the capital of Britain is London. London is located in south east England. London is one of the most populous cities in Europe. London is known for its history, culture, and landmarks
+Threshold layer 28: <s> the capital of Britain is London. London is located in southern England and is the largest city in the United Kingdom. It is known for its rich history, cultural diversity, and iconic landmarks
+Threshold layer 27: <s> the capital of Britain is London. London is located in southern England. London is one of the most populous cities in Europe. London is known for its iconic landmarks such as Buckingham
+Threshold layer 26: <s> the capital of Britain is London. London is located in England, which is part of Britain. London is the largest city in Britain and Europe. London is known for its iconic landmarks such
+Threshold layer 25: <s> the capital of Britain is London. London is capital city of England and UK. London is capital city of England and UK. London is capital city of England and UK. London is capital city of
+Threshold layer 24: <s> the capital of Britain is London London London London London London London London London London London London London London London London London London London London London London London London London London London London London London London London London London
+Threshold layer 23: <s> the capital of Britain is London. London is located on the River Th London is located on the River Th London is located on the River Th London is located on the River Th London is located on
+Threshold layer 22: <s> the capital of Britain is London. London is located on the England's southwest coast. London is the capital city of England and the capital city of London is London. London is located on
+Threshold layer 21: <s> the capital of Britain is London. London is located on the River Th London is located on the River Th London is located on the River Th London is located on the River Th London is located on
+Threshold layer 20: <s> the capital of Britain is London
+
+London is capital city of Britain
+ London is capital city of Britain
+ London is capital city of Britain
+ London is capital city of Britain
+ London is capital
