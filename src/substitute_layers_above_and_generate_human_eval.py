@@ -103,8 +103,8 @@ def generate_one_completion(prompt):
 
 if __name__ == "__main__":
     problems = read_problems()
-    lowest_threshold_layer = 20
-    new_model_state_dict = filter_layers(torch.load("../mistral-7b-instruct-laser-distil-backward-0.1"), lowest_threshold_layer)
+    lowest_threshold_layer = 27
+    new_model_state_dict = filter_layers(torch.load("../mistral-7b-instruct-laser-distil-backward-0.25"), lowest_threshold_layer)
     original_model_state_dict = torch.load("../original_state_dict")
     for threshold_layer in reversed(range(lowest_threshold_layer, 32)):
         print(f"Threshold layer: {threshold_layer}")

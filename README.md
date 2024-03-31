@@ -19,3 +19,4 @@ The LASER technique is a simple technique to reduce the rank of the layers in a 
 The repository contains a simple implementation of the LASER technique in PyTorch. 
 The implementation is tested on the human eval set.
 
+This code is experimental and not meant for production use.
